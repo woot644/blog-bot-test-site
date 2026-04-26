@@ -9,6 +9,7 @@ This site exists to test the full submission → render → commit → deploy fl
 ## Latest articles
 
 <!-- llms:latest:start -->
+- Why Stretching Isn’t Fixing Your Tight Muscles (And Can Make Things Worse) — [2026-04-26](https://blog-bot-test-site.vercel.app/blog-page/why-stretching-isn-t-fixing-your-tight-muscles-and-can-make-things-worse)
 - Why Your Glutes Aren’t Working (And Why Activation Exercises Keep Failing) — [2026-04-26](https://blog-bot-test-site.vercel.app/blog-page/why-your-glutes-aren-t-working-and-why-activation-exercises-keep-failing)
 <!-- llms:latest:end -->
 
