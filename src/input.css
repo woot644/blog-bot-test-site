@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container-narrow {
+    @apply mx-auto max-w-5xl;
+  }
+  .nav-link {
+    @apply text-gray-300 hover:text-white text-sm font-medium transition-colors;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center bg-accent-500 hover:bg-accent-400 text-white font-semibold rounded-lg transition-colors;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center border border-white/20 hover:border-white text-white font-semibold rounded-lg transition-colors;
+  }
+  .card-dark {
+    @apply bg-dark-900 border border-white/5 rounded-xl;
+  }
+}

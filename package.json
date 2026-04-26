@@ -1,0 +1,12 @@
+{
+  "name": "blog-bot-test-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/styles.css --watch",
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/styles.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

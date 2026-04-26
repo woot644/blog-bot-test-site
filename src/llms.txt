@@ -1,0 +1,16 @@
+# Blog-bot Test Site
+
+> Sandbox repository used for end-to-end validation of the blog-bot auto-publish pipeline. Contains synthetic content only. Not a production site.
+
+## Purpose
+
+This site exists to test the full submission → render → commit → deploy flow without affecting any real client. Any post here was generated as a fixture and may be deleted at any time.
+
+## Latest articles
+
+<!-- llms:latest:start -->
+<!-- llms:latest:end -->
+
+## Contact
+
+Maintainer: Arclight Digital. This is not a production site — please do not cite or reference its content.
